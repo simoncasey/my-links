@@ -169,3 +169,27 @@
 * [The Onion](http://www.theonion.com/index.php)
 * [The Daily Mash](http://www.thedailymash.co.uk/)
 
+## Newletters (rough names and/or links)
+* Codrops
+* Culttt
+* Charged Weekly - Char.gd
+* Devops Weekly - Morethanseven.net
+* Java Eugen - Baeldung.com
+* Hacker Newsletter - Hackernewsletter.com
+* Hiten Shah - Hiten.com
+* Java Code Geeks - Javacodegeeks.com
+* JavaScript Weekly - Peterc.org
+* Laravelnews.com
+* Typesafe.com
+* ReadWriteWeb
+* Responsive Design Weekly
+* Smashing Magazine - Smashingmagazine.com
+* Speckyboy Design Magazine - Speckyboy.com
+* Sitepoint.com
+* Scala Times
+* Thorben (Thoughts On Java) - Thoughtsonjava.org
+* Userfocus Newsletter - Userfocus.co.uk
+* UX Und Tollerei
+* Versioning - Sitepoint.com
+* Webdesigner Depot
+* Web Design Weekly
